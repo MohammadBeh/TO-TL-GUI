@@ -11,7 +11,6 @@ This project provides a graphical user interface (GUI) for [Real-time Topology O
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Dependencies](#dependencies)
 - [Configuration](#configuration)
 - [Examples](#examples)
 - [Troubleshooting](#troubleshooting)
@@ -63,14 +62,6 @@ This project provides a graphical user interface (GUI) for [Real-time Topology O
 
 3. Visualize the results using the built-in plotting tools.
 
-## Dependencies
-
-- PyQt5
-- Keras
-- NumPy
-- Matplotlib
-- SciPy
-- VTK
 
 ## Configuration
 
